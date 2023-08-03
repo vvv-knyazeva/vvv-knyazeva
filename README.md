@@ -36,6 +36,5 @@
 <p align="left">
  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   -->
-  
-<img src="https://komarev.com/ghpvc/?username=z0-xy&style=flat-square&color=blue" alt=""/>
+
 </p> 
